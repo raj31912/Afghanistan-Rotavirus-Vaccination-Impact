@@ -1,6 +1,6 @@
 # Afghanistan rotavirus vaccination impact analysis
 
-Version 1.2.2 of the analysis supporting the provincial rotavirus vaccination impact study in Afghanistan.
+The analysis supporting the provincial rotavirus vaccination impact study in Afghanistan.
 
 The pipeline reconstructs RV1/RV2 coverage and timing from Afghanistan MICS 2022–23, fits age-specific uptake curves, allocates a fixed national mortality reference across provinces, evaluates delivery and product counterfactuals, propagates uncertainty, and runs structural sensitivity analyses.
 
