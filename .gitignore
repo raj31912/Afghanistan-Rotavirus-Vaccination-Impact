@@ -1,0 +1,26 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+Thumbs.db
+
+# Restricted/source data
+data/raw/*
+!data/raw/.gitignore
+!data/raw/README.md
+
+# Generated analysis outputs
+outputs/*
+!outputs/.gitkeep
+figures/*
+!figures/.gitkeep
+
+# Local logs / editor files
+*.log
+*.tmp
+.idea/
+.vscode/

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite the associated manuscript and repository release."
+title: "Afghanistan rotavirus vaccination impact analysis"
+type: software
+version: 1.2.2
+date-released: 2026-10-01
+license: MIT
+authors:
+  - family-names: Ranjan
+    given-names: Rajeev
+    affiliation: "University of Strathclyde"
+  - family-names: Anwari
+    given-names: Palwasha
+    affiliation: "London School of Hygiene & Tropical Medicine"
+  - family-names: Clark
+    given-names: Andrew D
+    affiliation: "London School of Hygiene & Tropical Medicine"
+  - family-names: Colson
+    given-names: Abigail
+    affiliation: "University of Strathclyde"
+  - family-names: Van der Meer
+    given-names: Robert
+    affiliation: "University of Strathclyde"
